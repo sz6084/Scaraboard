@@ -469,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "../../Downloads/hackboard.dsn",
-      "step": "",
+      "step": "hackboard.step",
       "svg": "",
       "vrml": ""
     },
