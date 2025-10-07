@@ -7,7 +7,7 @@ A keyboard with some Scaramouche art on it!
 
 ### Inspiration
 
-I wanted to create a keyboard to replace my current keyboard, a (surprisingly decent and fully-sized) membrane keyboard. It has 88 switches, 1 rpi pico, and no LEDs (I don't want the hassle and my current keyboard doesn't have it anyways, thought RGB in a future one would be cool). Also Genshin Impact.
+I wanted to create a keyboard to replace my old keyboard that I spilled a smoothie over, a (surprisingly decent and fully-sized) membrane keyboard. Scaraboard has 88 switches, 1 rpi pico, and no LEDs (I don't want the hassle and my current keyboard doesn't have it anyways, though RGB in a future one would be cool). Also Genshin Impact.
 
 ### Challenge
 
