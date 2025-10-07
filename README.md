@@ -1,9 +1,7 @@
 # Scaraboard
 A keyboard with some Scaramouche art on it!
 
-![Hackboard-case v16](https://github.com/user-attachments/assets/link-here)
-
-
+<img width="1520" height="730" alt="hackboard-case" src="https://github.com/user-attachments/assets/0d1dbf47-4296-4e33-b525-430dfa8cf386" />
 
 ### Inspiration
 
