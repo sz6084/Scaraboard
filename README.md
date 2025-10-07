@@ -32,4 +32,4 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/link-here)  |  ![image](https://github.com/user-attachments/assets/link-here)  |  ![Hackboard-case v16](https://github.com/user-attachments/assets/link-here)
+| <img width="4677" height="3307" alt="image" src="https://github.com/user-attachments/assets/fe8ba2cd-bc02-40ff-b9b5-f5e93804fe72" /> |  <img width="1631" height="611" alt="PCB" src="https://github.com/user-attachments/assets/28516946-4e4a-4983-9168-8c117f72715b" /> |  <img width="1520" height="730" alt="hackboard-case" src="https://github.com/user-attachments/assets/0d1dbf47-4296-4e33-b525-430dfa8cf386" /> |
