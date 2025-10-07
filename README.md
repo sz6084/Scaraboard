@@ -17,6 +17,7 @@ I had only just designed my macropad, and now i had to scale it up. I followed a
 ## Bill of Material
 | Part | Qty | Price | Link |
 | --- | --- | --- | --- |
+| PCB | 5 | $21.50 | https://cart.jlcpcb.com/quote?orderType=1&homeUploadNum=f9d340d1b5944b91bde815b77c3f36ea&businessType=example&fileName=hackboard.zip |
 | Raspberry Pi Pico | 1 | $6.00 | https://www.waveshare.com/rp2040-plus.htm?sku=20290 |
 | 1N4148 Diode | 88 | $8.80 | https://www.digikey.com/en/products/detail/onsemi/1N4148/458603 |
 | MX Switches | 88 | $17.60 | https://mechanicalkeyboards.com/products/gateron-ks-3-milky-yellow-pro-50g-linear-pcb-mount |
