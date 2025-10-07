@@ -16,18 +16,21 @@ I had only just designed my macropad, and now i had to scale it up. I followed a
 
 ### Specifications
 
-BOM:
- - 88x Cherry MX switches
- - 88x 1N4148 diodes
- - 1x Orpheus or Raspbery Pi Pico
- - 88x Blank DSA keycaps
- - 4x M3x16 Bolt
- - 4x M3 Heatset
+## Bill of Material
+| Part | Qty | Price | Link |
+| --- | --- | --- | --- |
+| Raspberry Pi Pico | 1 | $6.00 | https://www.waveshare.com/rp2040-plus.htm?sku=20290 |
+| 1N4148 Diode | 88 | $8.80 | https://www.digikey.com/en/products/detail/onsemi/1N4148/458603 |
+| MX Switches | 88 | $17.60 | https://mechanicalkeyboards.com/products/gateron-ks-3-milky-yellow-pro-50g-linear-pcb-mount |
+| Total Price | --- | $19.08 | --- |
+
 
 Others:
+ - Case is 3d printed in PLA
+ - 6x M2x5 screw
+ - 4x M3x12 screw
+ - 4x M3x4 heat set inserts
  - KMK firmware
- - TopCase.stl (as soon as I sort my files!)
- - Bottomcase.stl (as soon as I sort my files!)
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
