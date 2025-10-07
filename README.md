@@ -25,7 +25,6 @@ I had only just designed my macropad, and now i had to scale it up. I followed a
 
 Others:
  - Case is 3d printed in PLA
- - 6x M2x5 screw
  - 4x M3x12 screw
  - 4x M3x4 heat set inserts
  - KMK firmware
