@@ -22,7 +22,7 @@ I had only just designed my macropad, and now i had to scale it up. I followed a
 | Keycaps | 88 | $13.99 | https://www.amazon.com/Doubleshot-Mechanical-Keyboard-Compatiability-Keyboads/dp/B0F7H32LKC |
 | Stabilizers | 1 | $10.00 | https://cannonkeys.com/products/cherry-stabilizers?variant=32257338998895 |
 | 1N4148 Diode | 88 | $8.80 | https://www.digikey.com/en/products/detail/onsemi/1N4148/458603 |
-| Raspberry Pi Pico | 1 | $6.00 | https://www.waveshare.com/rp2040-plus.htm?sku=20290 |
+| Orpheus Pi Pico | 2 | --- | https://orpheuspico.hackclub.com |
 | Subtotal | --- | $77.89 | --- |
 | Approx. Total Price (with shipping) | --- | $106.33 | --- |
 
